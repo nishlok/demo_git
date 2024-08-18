@@ -1,0 +1,2 @@
+This is my lab excercise for git.
+May be few mistakes will be made

@@ -1,2 +1,1 @@
-# demo_git
-git initial demo
+Tgis repo is for learning basic command like clone, add, commit, push pull and many more.
